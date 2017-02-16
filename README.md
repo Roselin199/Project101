@@ -2,7 +2,7 @@
 <html>
 <table>
 <tr>
-<th>JMC WEBSITE</th><th>Suggestions</th>
+<th>Title</th><th>Suggestions</th>
 </tr>
 <tr>
 <th>Meta Description</th>
