@@ -3,6 +3,8 @@
 <table>
 <tr>
 <td colspan=2>JMC WEBSITE</td>
+</tr>
+<tr>
 <th>Title</th><th>Suggestions</th>
 </tr>
 <tr>
