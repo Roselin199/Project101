@@ -9,7 +9,8 @@
 </tr>
 <tr>
 <th>Meta Description</th>
-<td>JMC is run by the Sisters of Jesus & Mary Congregation which originated in France in 1818. It was founded by a noble lady St. Claudine Thevenet.</td>
+<td>This Page should have meta description.
+JMC is run by the Sisters of Jesus & Mary Congregation which originated in France in 1818. It was founded by a noble lady St. Claudine Thevenet.</td>
 </tr>
 <tr>
 <th>SEO friendly User Test</th>
