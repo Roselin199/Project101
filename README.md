@@ -13,8 +13,16 @@
 <td>An SEO friendly url must contain only lower alphabets, numbers, slashes(/), dash(-).</td>
 </tr>
 <tr>
-<th>Deprecatd HTML Tags</th>
-<td>The page dos not use HTML deprcatd tag</td>
+<th>Deprecated HTML Tags</th>
+<td>The page does not use HTML deprcated tag</td>
+</tr>
+<tr>
+<th>Domain Authority</th>
+<td>Domain Authority should be more than 20.</td>
+</tr>
+<tr>
+<th>Page Authority</th>
+<td>Page Authority should be more than 20</td>
 </tr>
 </table>
 </html>
