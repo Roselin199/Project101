@@ -24,5 +24,9 @@
 <th>Page Authority</th>
 <td>Page Authority should be more than 20</td>
 </tr>
+<tr>
+<th>Inline CSS Test</th>
+<td>Your webpage is using 214 inline CSS styles</td>
+</tr>
 </table>
 </html>
