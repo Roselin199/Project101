@@ -2,7 +2,7 @@
 <html>
 <table>
 <tr>
-<th>JMC WEBSITE</th><th>Jesus and Mary College,Chanakyapuri</th>
+<th>JMC WEBSITE</th><th>Suggestions</th>
 </tr>
 <tr>
 <th>Meta Description</th>
