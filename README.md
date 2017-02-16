@@ -2,6 +2,7 @@
 <html>
 <table>
 <tr>
+<td colspan=2>JMC WEBSITE</td>
 <th>Title</th><th>Suggestions</th>
 </tr>
 <tr>
