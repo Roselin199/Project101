@@ -1,7 +1,7 @@
 <html>
 <table>
 <th>
-<b><u><i><h1><center>JMC WEBSITE</center></h1></i></u></b>
+<b><u><i><h1>JMC WEBSITE</h1></i></u></b>
 </th>
 <tr>
 <th><b>TITLE</b></th><th><b>REQUIREMENTS</b></th><th><b>SUGGESTION</b></th>
