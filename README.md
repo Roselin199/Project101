@@ -1,8 +1,8 @@
 <html>
 <table>
-<tr>
-<b><u><i>JMC WEBSITE</i></u></b>
-</tr>
+<th>
+<b><u><i><h1>JMC WEBSITE</h1></i></u></b>
+</th>
 <tr>
 <th><b>TITLE</b></th><th><b>REQUIREMENTS</b></th><th><b>SUGGESTION</b></th>
 </tr>
