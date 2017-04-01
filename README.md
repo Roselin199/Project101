@@ -1,12 +1,12 @@
 <html>
 <table>
-<b><u><i>>JMC WEBSITE</i></u></b>
+<b><u><i><center>JMC WEBSITE</center></i></u></b>
 <tr>
 <th><b>TITLE</b></th><th><b>REQUIREMENTS</b></th><th><b>SUGGESTION</b></th>
 </tr>
 <tr>
 <th>Meta Description</th>
-<td>This Page should have meta description.</td>
+<td>This Page should have 60 characters in meta description.</td>
 <td>JMC is run by the Sisters of Jesus & Mary Congregation which originated in France in 1818. It was founded by a noble lady St. Claudine Thevenet.</td>
 </tr>
 <tr>
