@@ -1,6 +1,8 @@
 <html>
 <table>
+<tr>
 <b><u><i><center>JMC WEBSITE</center></i></u></b>
+</tr>
 <tr>
 <th><b>TITLE</b></th><th><b>REQUIREMENTS</b></th><th><b>SUGGESTION</b></th>
 </tr>
@@ -28,7 +30,8 @@
 </tr>
 <tr>
 <th>Inline CSS Test</th>
-<td>Your webpage is using 214 inline CSS styles</td>
+<td>Your webpage is using 204 inline CSS styles</td>
+<td>This webpage should have more than 300 characters</td>
 </tr>
 </table>
 </html>
