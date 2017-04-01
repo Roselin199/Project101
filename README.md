@@ -1,10 +1,8 @@
 <html>
 <table>
+<b><u><i><center>JMC WEBSITE</center></i></u></b>
 <tr>
-<td colspan=2>JMC WEBSITE</td>
-</tr>
-<tr>
-<th>Title</th><th>Suggestions</th>
+<th><b>TITLE</b></th><th>REQUIREMENTS</th>
 </tr>
 <tr>
 <th>Meta Description</th>
