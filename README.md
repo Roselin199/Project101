@@ -1,5 +1,5 @@
 <html>
-<body bgcolor="yellow">
+<body bgcolor="pale green">
 <table>
 <head><b><h1><marquee>SEO REPORT</marquee></h1></b></head>
 <th colspan="4"><b><u><i><h1><font color="red">JMC WEBSITE</font></h1></i></u></b></th>
