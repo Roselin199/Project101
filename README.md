@@ -7,7 +7,7 @@
 <th><b>TITLE</b></th><th><b>REQUIREMENTS</b></th><th><b>SUGGESTION</b></th>
 </tr>
 <tr>
-<th>Meta Description</th>
+<th><font color="green" size=5>Meta Description</font></th>
 <td>This Page should have 60 characters in meta description.</td>
 <td>JMC is run by the Sisters of Jesus & Mary Congregation which originated in France in 1818. It was founded by a noble lady St. Claudine Thevenet.</td>
 </tr>
@@ -32,6 +32,14 @@
 <th>Inline CSS Test</th>
 <td>Your webpage is using 204 inline CSS styles</td>
 <td>This webpage should have more than 300 inline CSS styles.</td>
+</tr>
+<tr>
+<th>SEO Score</th>
+<td>76</td>
+</tr>
+<tr>
+<th>SEO GRADE</th>
+<td><img src="http://smallseotools.com/imgs/badge-golden-xs.png" alt="seo checker"/></td>
 </tr>
 </table>
 </body>
