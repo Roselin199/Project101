@@ -1,6 +1,6 @@
 <html>
 <table>
-<th colspan="4"><b><u><i><h1>JMC WEBSITE</h1></i></u></b></th>
+<th colspan="4"><b><u><i><h1><font color="red">JMC WEBSITE</font></h1></i></u></b></th>
 <tr>
 <th><b>TITLE</b></th><th><b>REQUIREMENTS</b></th><th><b>SUGGESTION</b></th>
 </tr>
