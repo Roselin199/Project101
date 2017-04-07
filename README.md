@@ -1,6 +1,7 @@
 <html>
+<body bgcolor="light brown">
 <table>
-<head><marquee>SEO REPORT</marquee></head>
+<head><b><h1><marquee>SEO REPORT</marquee></h1></b></head>
 <th colspan="4"><b><u><i><h1><font color="red">JMC WEBSITE</font></h1></i></u></b></th>
 <tr>
 <th><b>TITLE</b></th><th><b>REQUIREMENTS</b></th><th><b>SUGGESTION</b></th>
@@ -33,4 +34,5 @@
 <td>This webpage should have more than 300 inline CSS styles.</td>
 </tr>
 </table>
+</body>
 </html>
