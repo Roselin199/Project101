@@ -1,5 +1,6 @@
 <html>
 <table>
+<head><marquee>SEO REPORT</marquee></head>
 <th colspan="4"><b><u><i><h1><font color="red">JMC WEBSITE</font></h1></i></u></b></th>
 <tr>
 <th><b>TITLE</b></th><th><b>REQUIREMENTS</b></th><th><b>SUGGESTION</b></th>
