@@ -7,7 +7,7 @@
 <th><b>TITLE</b></th><th><b>REQUIREMENTS</b></th><th><b>SUGGESTION</b></th>
 </tr>
 <tr>
-<th><font color="green" size=5>Meta Description</font></th>
+<th><font color="green" font size="5">Meta Description</font></th>
 <td>This Page should have 60 characters in meta description.</td>
 <td>JMC is run by the Sisters of Jesus & Mary Congregation which originated in France in 1818. It was founded by a noble lady St. Claudine Thevenet.</td>
 </tr>
