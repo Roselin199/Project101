@@ -12,33 +12,33 @@
 <td>JMC is run by the Sisters of Jesus & Mary Congregation which originated in France in 1818. It was founded by a noble lady St. Claudine Thevenet.</td>
 </tr>
 <tr>
-<th><font color="pink" font size="5">SEO friendly User Test</font></th>
+<th><font color="brown" font size="5">SEO friendly User Test</font></th>
 <td>This website should be SEO friendly</td>
 <td>An SEO friendly url must contain only lower alphabets, numbers, slashes(/), dash(-).</td>
 </tr>
 <tr>
-<th><font color="pink" font size="5">Deprecated HTML Tags</font></th>
+<th><font color="green" font size="5">Deprecated HTML Tags</font></th>
 <td>The page does not use HTML deprcated tag</td>
 </tr>
 <tr>
-<th><font color="green" font size="5">Domain Authority</font></th>
+<th><font color="brown" font size="5">Domain Authority</font></th>
 <td>Domain Authority should be more than 20.</td>
 </tr>
 <tr>
-<th><font color="pink" font size="5">Page Authority</font></th>
+<th><font color="green" font size="5">Page Authority</font></th>
 <td>Page Authority should be more than 20</td>
 </tr>
 <tr>
-<th><font color="green" font size="5">Inline CSS Test</font></th>
+<th><font color="brown" font size="5">Inline CSS Test</font></th>
 <td>Your webpage is using 204 inline CSS styles</td>
 <td>This webpage should have more than 300 inline CSS styles.</td>
 </tr>
 <tr>
-<th><font color="pink" font size="5">SEO Score</font></th>
+<th><font color="green" font size="5">SEO Score</font></th>
 <td>76</td>
 </tr>
 <tr>
-<th><font color="green" font size="5">SEO GRADE</font></th>
+<th><font color="brown" font size="5">SEO GRADE</font></th>
 <td><img src="http://smallseotools.com/imgs/badge-golden-xs.png" alt="seo checker"/></td>
 </tr>
 </table>
