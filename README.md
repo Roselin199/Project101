@@ -74,9 +74,6 @@
 <th><font color="brown" font size="5">SEO GRADE</font></th>
 <td><img src="http://smallseotools.com/imgs/badge-golden-xs.png" alt="seo checker"/></td>
 </tr>
-<tr>
-<th colspan="6">TO GO TO JMC WEBSITE CLICK: <a href="https://www.jmc.ac.in">JMC WEBSITE</a></th>
-</tr>
 </table>
 </html>
 
