@@ -68,6 +68,7 @@
 <tr>
 <th><font color="green" font size="5">SEO Score</font></th>
 <td>76</td>
+<td>Good</td>
 </tr>
 <tr>
 <th><font color="brown" font size="5">SEO GRADE</font></th>
