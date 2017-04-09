@@ -1,5 +1,4 @@
 <html>
-<body bgcolor="pale green">
 <table>
 <head><b><h1><marquee>SEO REPORT</marquee></h1></b></head>
 <th colspan="6"><b><u><i><h1><font color="red">JMC WEBSITE</font></h1></i></u></b></th>
@@ -23,57 +22,56 @@
 <th><font color="brown" font size="5">Meta Keywords</font></th>
 <td>Found</td>
 <td>200</td>
-<td><font color="green" font size="5">Meta keywords not Found </font></td>
+<td>Meta keywords not Found</td>
 <td>Google Does not accept meta keywords any more.</td>
 </tr>
 <tr>
-<th><font color="brown" font size="5">h1 heading status</font></th>
+<th><font color="green" font size="5">h1 heading status</font></th>
 <td>Found</td>
 <td>200</td>
 <td>Your page contains H1 headings.</td>
 </tr>
 <tr>
-<th><font color="green" font size="5">SEO friendly User Test</font></th>
+<th><font color="brown" font size="5">SEO friendly User Test</font></th>
 <td>Not Available</td>
 <td>200</td>
 <td>This website should be SEO friendly</td>
 <td>An SEO friendly url must contain only lower alphabets, numbers, slashes(/), dash(-).</td>
 </tr>
 <tr>
-<th><font color="brown" font size="5">Deprecated HTML Tags</font></th>
+<th><font color="green" font size="5">Deprecated HTML Tags</font></th>
 <td>Found</td>
 <td>200</td>
 <td>The page is using HTML deprecated tag</td>
 </tr>
 <tr>
-<th><font color="green" font size="5">Domain Authority</font></th>
+<th><font color="brown" font size="5">Domain Authority</font></th>
 <td>Not Availble</td>
 <td>404</td>
 <td>Your site is using - Domain authority.</td>
 <td>Domain Authority should be more than 20.</td>
 </tr>
 <tr>
-<th><font color="brown" font size="5">Page Authority</font></th>
+<th><font color="green" font size="5">Page Authority</font></th>
 <td>Not Available</td>
 <td>404</td>
 <td>Your site is using - Page authority.</td>
 <td>Page Authority should be more than 20</td>
 </tr>
 <tr>
-<th><font color="green" font size="5">Inline CSS Test</font></th>
+<th><font color="brown" font size="5">Inline CSS Test</font></th>
 <td>Not Found</td>
 <td>404</td>
 <td>Your webpage is using 204 inline CSS styles</td>
 <td>This webpage should have more than 300 inline CSS styles.</td>
 </tr>
 <tr>
-<th><font color="brown" font size="5">SEO Score</font></th>
+<th><font color="green" font size="5">SEO Score</font></th>
 <td>76</td>
 </tr>
 <tr>
-<th><font color="green" font size="5">SEO GRADE</font></th>
+<th><font color="brown" font size="5">SEO GRADE</font></th>
 <td><img src="http://smallseotools.com/imgs/badge-golden-xs.png" alt="seo checker"/></td>
 </tr>
 </table>
-</body>
 </html>
