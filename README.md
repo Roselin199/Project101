@@ -11,6 +11,7 @@
 <td>200</td>
 <td>The Page title length of your page is 36 characters. Most search engines will truncate Page title to 65 characters.</td>
 <td>Jesus & Mary College - New Delhi</td>
+</tr>
 <tr>
 <th><font color="green" font size="5">Meta Description</font></th>
 <td>Not Found</td>
