@@ -1,6 +1,6 @@
 <html>
-<table>
 <head><b><h1><marquee>SEO REPORT</marquee></h1></b></head>
+<table>
 <th colspan="6"><b><u><i><h1><font color="red">JMC WEBSITE</font></h1></i></u></b></th>
 <tr>
 <th><b>TITLE</b></th><th><b>STATUS</b></th><th><b>STATUS CODE</b></th><th><b>REQUIREMENTS</b></th><th><b>SUGGESTION</b></th>
