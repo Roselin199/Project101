@@ -20,51 +20,62 @@
 <td>JMC is run by the Sisters of Jesus & Mary Congregation which originated in France in 1818. It was founded by a noble lady St. Claudine Thevenet.</td>
 </tr>
 <tr>
+<td><b>3.</b></td>
 <th><font color="brown" font size="5">Meta Keywords</font></th>
 <td>Found</td>
 <td>Meta keywords not Found</td>
 <td>Google Does not accept meta keywords any more.</td>
 </tr>
 <tr>
+<td><b>4.</b></td>
 <th><font color="green" font size="5">h1 heading status</font></th>
 <td>Found</td>
 <td>Your page contains H1 headings.</td>
 </tr>
 <tr>
+<td><b>5.</b></td>
 <th><font color="brown" font size="5">SEO friendly User Test</font></th>
 <td>Not Available</td>
 <td>This website should be SEO friendly</td>
 <td>An SEO friendly url must contain only lower alphabets, numbers, slashes(/), dash(-).</td>
 </tr>
 <tr>
+<td><b>6.</b></td>
 <th><font color="green" font size="5">Deprecated HTML Tags</font></th>
 <td>Found</td>
 <td>The page is using HTML deprecated tag</td>
 </tr>
 <tr>
+<td><b>7.</b></td>
 <th><font color="brown" font size="5">Domain Authority</font></th>
 <td>Not Availble</td>
 <td>Your site is using - Domain authority.</td>
 <td>Domain Authority should be more than 20.</td>
 </tr>
 <tr>
+<td><b>8.</b></td>
 <th><font color="green" font size="5">Page Authority</font></th>
 <td>Not Available</td>
 <td>Your site is using - Page authority.</td>
 <td>Page Authority should be more than 20</td>
 </tr>
 <tr>
+<td><b>9.</b></td>
 <th><font color="brown" font size="5">Inline CSS Test</font></th>
 <td>Not Found</td>
 <td>Your webpage is using 204 inline CSS styles</td>
 <td>This webpage should have more than 300 inline CSS styles.</td>
 </tr>
 <tr>
+<td><b>10.</b></td>
 <th>Robots.txt Test</th>
 <td>Found</td>
 <td>Your site use a "robots.txt" file</td>
 <td> http://jmc.ac.in/robots.txt </td>
 </tr>
+<tr>
+<td><b>11.</b></td>
+<th>
 </table>
 <table>
 <th><b>Title</b></th><th><b>Description</b></th>
