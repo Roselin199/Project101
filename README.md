@@ -68,66 +68,115 @@
 </tr>
 <tr>
 <td><b>10.</b></td>
-<th>Robots.txt Test</th>
+<th><font color="green" font size="5">Robots.txt Test</font></th>
 <td>Found</td>
 <td>Your site use a "robots.txt" file</td>
 <td> http://jmc.ac.in/robots.txt </td>
 </tr>
 <tr>
 <td><b>11.</b></td>
-<th>Broken Links Test</th>
+<th><font color="brown" font size="5">Broken Links Test</font></th>
 <td>OK</td>
 <td>98 distinct anchor links analyzed, none of them appears to be broken.</td>
 <td>The site should not contain Broken links so as to improve the seo score.</td>
 </tr>
 <tr>
-<td><b>12</b></td>
-<th>Image Alt Test</th>
+<td><b>12.</b></td>
+<th><font color="green" font size="5">Image Alt Test</font></th>
 <td>OK</td>
 <td>Your webpage has 20 'img' tags and all of them has the required 'alt' attribute.</td>
 <td>alt tag will describe your image in case it's not appearing on webpage</td>
 </tr>
 <tr>
-<td><b>13</b></td>
-<th>Favicon Test</th>
+<td><b>13.</b></td>
+<th><font color="brown" font size="5">Favicon Test</font></th>
 <td>Good</td>
 <td>Your site appears to have a favicon.</td>
-<td><img src="https://www.google.co.in/search?q=jmc+college+logo&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjk64rrnq7TAhVHJMAKHexpAWAQsAQIIA&biw=1280&bih=694#imgrc=XZygmYCddjkKoM:"></td>
+<td><img src=https://upload.wikimedia.org/wikipedia/en/1/19/Jesus_and_Mary_College.gif></td>
+</tr>
+<tr>
+<td><b>14.</b></td>
+<th><font color="green" font size="5">HTML Page Size Test</font></th>
+<td>Good</td>
+<td>Your HTML size is 11.14 Kb and this is under the average web page size of 33 Kb.</td>
+<td>This leads to a faster page loading time than average.</td>
+</tr>
+<tr>
+<td><b>15.</b></td>
+<th><font color="brown" font size="5">HTML Compression/GZIP Test</th>
+<td>Good</td>
+<td>Your page is successfully compressed using gzip compression on your code.</td>
+<td>Your HTML is compressed from 43.46 Kb to 11.14 Kb (74 % size savings). This helps ensure a faster loading web page and improved user experience.</td>
+</tr>
+<tr>
+<td><b>16.</b></td>
+<th><font color="green" font size="5">WWW redirection Test</font></th>
+<td>a redirect is in place to redirect traffic from your non-preferred domain.</td>
+<td> your website directs www.jmc.ac.in and jmc.ac.in to the same URL</td>
+</tr>
+<tr>
+<td><b>17.</b></td>
+<th><font color="brown" font size="5">Noindex Tag Checker</font></th>
+<td>Not Available</td>
+<td>Your webpage does not use the noindex meta tag.</td>
+<td>This means that your webpage will be read and indexed by search engines.</td>
+</tr>
+<tr>
+<td><b>18.</b></td>
+<th><font color="green" font size="5">Nofollow Tag Checker</font></th>
+<td>not Available</td>
+<td>Your webpage does not use the nofollow meta tag. </td>
+<td> This means that search engins will crawl all links from your webpage.</td>
+</tr>
+<tr>
+<td><b>19.</b></td>
+<th><font color="brown" font size="5">Underscores in Links Test</font></th>
+<td>OK</td>
+<td> We have not found underscores in your in-page URLs!</td>
+</tr>
+<tr>
+<td><b>20.</b></td>
+<th><font color="green" font size="5">Keywords Test</font></th>
+<td>OK</td>
+<td>Your most common keywords are not appearing in one or more of the meta-tags above. </td>
+<td> Your primary keywords should appear in your meta-tags to help identify the topic of your webpage to search engines.
+⟩⟩  Keyword(s) not included in Meta-Title
+⟩⟩  Keyword(s) not included in Meta-Description</td>
 </tr>
 </table>
 
 <table>
 <th><b>Title</b></th><th><b>Description</b></th>
 <tr>
-<th>Email</th>
+<th><font color="brown" font size="3">Email</font></th>
 <td>marinajmc@gmail.com</td>
 </tr>
 <tr>
-<th>Website Title</th>
+<th><font color="green" font size="3">Website Title</font></th>
 <td>Jesus & Mary College - New Delhi</td>
 </tr>
 <tr>
-<th><font color="green" font size="5">SEO Score</font></th>
+<th><font color="brown" font size="3">SEO Score</font></th>
 <td>76</td>
 </tr>
 <tr>
-<th><font color="brown" font size="5">SEO GRADE</font></th>
+<th><font color="green" font size="3">SEO GRADE</font></th>
 <td><img src="http://smallseotools.com/imgs/badge-golden-xs.png" alt="seo checker"></td>
 </tr>
 <tr>
-<th>Page Rank</th>
+<th><font color="brown" font size="3">Page Rank</font></th>
 <td>0 out of 10</td>
 </tr>
 <tr>
-<th>Created on</th>
+<th><font color="green" font size="3">Created on</font></th>
 <td>21-01-2011</td>
 </tr>
 <tr>
-<th>Updated on</th>
+<th><font color="brown" font size="3">Updated on</font></th>
 <td>04-02-2016</td>
 </tr>
 <tr>
-<th>Expires on</th>
+<th><font color="green" font size="3">Expires on</font></th>
 <td>21-01-2021</td>
 </tr>
 <th colspan="6">FOLLOWING IS THE JMC WEBSITE: www.jmc.ac.in </th>
