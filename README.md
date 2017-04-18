@@ -7,14 +7,14 @@
 </tr>
 <tr>
 <td><b>1.</b></td>
-<td><font color="brown" font size="5">Page Title</font></td>
+<th><font color="brown" font size="5">Page Title</font></th>
 <td>Found</td>
 <td>The Page title length of your page is 36 characters. Most search engines will truncate Page title to 65 characters.</td>
 <td>Jesus & Mary College - New Delhi</td>
 </tr>
 <tr>
 <td><b>2.</b></td>
-<td><font color="green" font size="5">Meta Description</font></td>
+<th><font color="green" font size="5">Meta Description</font></th>
 <td>Not Found</td>
 <td>This Page should have 60 characters in meta description.</td>
 <td>JMC is run by the Sisters of Jesus & Mary Congregation which originated in France in 1818. It was founded by a noble lady St. Claudine Thevenet.</td>
