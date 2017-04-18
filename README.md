@@ -75,8 +75,27 @@
 </tr>
 <tr>
 <td><b>11.</b></td>
-<th>
+<th>Broken Links Test</th>
+<td>OK</td>
+<td>98 distinct anchor links analyzed, none of them appears to be broken.</td>
+<td>The site should not contain Broken links so as to improve the seo score.</td>
+</tr>
+<tr>
+<td><b>12</b></td>
+<th>Image Alt Test</th>
+<td>OK</td>
+<td>Your webpage has 20 'img' tags and all of them has the required 'alt' attribute.</td>
+<td>alt tag will describe your image in case it's not appearing on webpage</td>
+</tr>
+<tr>
+<td><b>13</b></td>
+<th>Favicon Test</th>
+<td>Good</td>
+<td>Your site appears to have a favicon.</td>
+<td><img src="https://www.google.co.in/search?q=jmc+college+logo&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjk64rrnq7TAhVHJMAKHexpAWAQsAQIIA&biw=1280&bih=694#imgrc=XZygmYCddjkKoM:"></td>
+</tr>
 </table>
+
 <table>
 <th><b>Title</b></th><th><b>Description</b></th>
 <tr>
@@ -93,7 +112,7 @@
 </tr>
 <tr>
 <th><font color="brown" font size="5">SEO GRADE</font></th>
-<td><img src="http://smallseotools.com/imgs/badge-golden-xs.png" alt="seo checker"/></td>
+<td><img src="http://smallseotools.com/imgs/badge-golden-xs.png" alt="seo checker"></td>
 </tr>
 <tr>
 <th>Page Rank</th>
