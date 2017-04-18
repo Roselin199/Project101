@@ -103,7 +103,7 @@
 </tr>
 <tr>
 <td><b>15.</b></td>
-<th><font color="brown" font size="5">HTML Compression/GZIP Test</th>
+<th><font color="brown" font size="5">HTML Compression/GZIP Test </font></th>
 <td>Good</td>
 <td>Your page is successfully compressed using gzip compression on your code.</td>
 <td>Your HTML is compressed from 43.46 Kb to 11.14 Kb (74 % size savings). This helps ensure a faster loading web page and improved user experience.</td>
@@ -136,7 +136,7 @@
 </tr>
 <tr>
 <td><b>20.</b></td>
-<th><font color="green" font size="5">Keywords Test</font></th>
+<th><font color="green" font size="3">Keywords Test</font></th>
 <td>OK</td>
 <td>Your most common keywords are not appearing in one or more of the meta-tags above. </td>
 <td> Your primary keywords should appear in your meta-tags to help identify the topic of your webpage to search engines.
