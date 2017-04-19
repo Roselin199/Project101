@@ -111,6 +111,7 @@
 <tr>
 <td><b>16.</b></td>
 <th><font color="green" font size="3">WWW redirection Test</font></th>
+<td>Good
 <td>a redirect is in place to redirect traffic from your non-preferred domain.</td>
 <td> your website directs www.jmc.ac.in and jmc.ac.in to the same URL</td>
 </tr>
