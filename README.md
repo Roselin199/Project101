@@ -71,7 +71,7 @@
 <th><font color="green" font size="3">Robots.txt Test</font></th>
 <td>Found</td>
 <td>Your site use a "robots.txt" file</td>
-<td> http://jmc.ac.in/robots.txt </td>
+<td> <a href="http://jmc.ac.in/robots.txt"></a> </td>
 </tr>
 <tr>
 <td><b>11.</b></td>
